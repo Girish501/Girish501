@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b15d5c18-8076-45bd-9817-3b1d5ff004ac" alt="Header Image" width="1000"/>
 </div>
+
 # Hi there! 👋 I'm Girish Arora – Passionate About Analog Design, VLSI & Semiconductors
 
 Welcome to my GitHub profile! I’m a dedicated engineer with a focus on **analog design**, **VLSI systems**, and **semiconductor technology**. I’m driven by the challenge of designing high-performance circuits and am constantly exploring innovations in semiconductor technologies. Here, you'll find a collection of my projects, research, and insights into the world of analog and mixed-signal design.
 
 ---
-
 ## 🧭 Quick Navigation
 - [About Me](#-about-me)
 - [Featured Projects](#-featured-projects)
