@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a9ce7f7-2d28-466e-9af7-be8664ca818b" alt="Header Image" width="800"/>
+  <img src="https://github.com/user-attachments/assets/4a9ce7f7-2d28-466e-9af7-be8664ca818b" alt="Header Image" width="1000"/>
 </div>
 
 # Hi there! 👋 I'm Girish Arora – Passionate About Analog Design, VLSI & Semiconductors
