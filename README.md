@@ -98,5 +98,5 @@ Thank you for visiting my profile! Let's push the boundaries of what's possible 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Girish501&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </div>
