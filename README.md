@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm [Your Name] – Passionate About Analog Design, VLSI & Semiconductor Tech
+<div align="center">
+  <img src="path/to/your/header_image.jpg" alt="Header Image" width="800"/>
+</div>
+
+# Hi there! 👋 I'm Girish Arora – Passionate About Analog Design, VLSI & Semiconductors
 
 Welcome to my GitHub profile! I’m a dedicated engineer with a focus on **analog design**, **VLSI systems**, and **semiconductor technology**. I’m driven by the challenge of designing high-performance circuits and am constantly exploring innovations in semiconductor technologies. Here, you'll find a collection of my projects, research, and insights into the world of analog and mixed-signal design.
 
@@ -15,19 +19,15 @@ Welcome to my GitHub profile! I’m a dedicated engineer with a focus on **analo
 - [Featured Projects](#-featured-projects)
 - [Areas of Expertise](#-areas-of-expertise)
 - [Tech Stack](#-tech-stack)
-- [Publications](#-publications)
 - [Let's Connect!](#-lets-connect)
 
 ---
 
 ## 📚 About Me
 
-I'm a [Your Current Role or Title] with a passion for designing cutting-edge analog and mixed-signal circuits. My journey began with a fascination for how semiconductors power modern technology, and it has led me to specialize in **VLSI** and **high-speed analog circuit design**. I'm particularly interested in:
+I'm a final-year Electronics and Communication Engineering student at Thapar Institute of Engineering and Technology, I am passionate about the field of Analog and Mixed-Signal Design.My journey through various academic projects, internships, and leadership roles has strengthened my technical foundation and problem-solving skills in areas like PLL design, IC fabrication, and hardware interfacing using FPGA.
 
-- **PLL and clock generation circuits** for high-speed data applications.
-- **Low-power analog design** for energy-efficient systems.
-- **CMOS technology scaling** challenges and solutions.
-- **High-frequency RF design** and its applications in telecommunications.
+I am particularly skilled in tools such as Cadence Virtuoso, LTSpice, and Xilinx Vivado, which I’ve used in projects ranging from designing clock generation systems for SerDes to developing flight controllers for drones. I’m eager to apply my knowledge and passion in the semiconductor industry, with a long-term goal of advancing India’s role in analog and mixed-signal technology.
 
 ---
 
@@ -39,19 +39,17 @@ Here are a few projects I’m most proud of:
    - Developed a high-performance PLL for clock generation in Serializer/Deserializer applications using 180nm CMOS technology.
    - Achieved an output frequency of 4.44 GHz with low jitter and fast locking time.
    - Tools Used: **Cadence Virtuoso**, **Spectre**
-   - [Project Repository](https://github.com/your-profile/pll-design-serdes)
+   - [Project Repository](https://github.com/Girish501/Phase-Locked-Loop-for-Clock-Generation-in-SerDes-in-180nm-CMOS)
 
-### 2. **Analog-to-Digital Converter (ADC) for IoT Devices**
-   - Designed a low-power ADC tailored for IoT applications, optimized for power efficiency and small form factor.
-   - Tools Used: **Cadence Virtuoso**, **MATLAB**
-   - [Project Repository](https://github.com/your-profile/adc-iot)
-
-### 3. **ASIC Design for High-Speed Data Transmission**
+### 2. **Design and Implementation of Flight Controller for Drone using HDL.**
    - Implemented and verified ASIC design modules for high-speed data transfer applications.
-   - Tools Used: **Synopsys Design Compiler**, **Cadence Innovus**
+   - Focused on customizable processing, sensor interface, and integration.
+   - Our team was responsible for Hardware interfacing of the peripherals with the Basys-3 Artix-7 FPGA.
+   - Implemented the FPV CCD camera on the drone.
+   - Implemented the HDL codes of the PWM Encoder and PWM decoder.
+   - Tools Used: **Xilinx Vivado**
    - [Project Repository](https://github.com/your-profile/asic-design)
 
-*Check out more of my projects [here](https://github.com/your-profile?tab=repositories).*
 
 ---
 
@@ -59,11 +57,8 @@ Here are a few projects I’m most proud of:
 
 Here’s where I excel and am constantly expanding my knowledge:
 
-- **Analog Circuit Design**: PLLs, ADCs, amplifiers, oscillators, and low-power design techniques.
-- **VLSI and Digital Design**: RTL design, synthesis, place-and-route, and DFT for ASICs.
-- **Semiconductor Physics**: In-depth understanding of CMOS technology and scaling challenges.
-- **Simulation & Verification**: Proficiency in simulation tools (Spectre, HSPICE) for ensuring high accuracy in designs.
-- **Technology Scaling**: Experienced in designing circuits in submicron CMOS technologies.
+- **Analog Circuit Design**: PLLs, amplifiers, oscillators.
+- **Semiconductor Physics**: In-depth understanding of CMOS technology.
 
 ---
 
@@ -71,21 +66,10 @@ Here’s where I excel and am constantly expanding my knowledge:
 
 Here’s a glimpse of the tools and technologies I work with regularly:
 
-- **EDA Tools**: Cadence Virtuoso, Synopsys Design Compiler, Xilinx Vivado, LTspice
-- **Programming Languages**: Verilog, VHDL, Python, MATLAB
 - **Hardware**: FPGA (Basys-3), Oscilloscopes, Signal Generators
-- **Design Standards**: CMOS, FinFET, RTL Design, ASIC Design, Digital Logic
-
----
-
-## 📑 Publications
-
-Some of my contributions to the academic and professional communities:
-
-- **"Low Jitter PLL for High-Speed Communication Systems"** – Presented at [Conference Name].
-- **"Energy-Efficient ADC for IoT Applications"** – Published in [Journal Name].
-
-*(Add more publications if you have them)*
+- **Design Standards**: CMOS, Digital Logic
+- **Tools**: Xilinx Vivado, LTSpice, S-Edit Mentor Graphics, Arduino IDE, KEIL, EAGLE, AutoCAD
+- **Languages**: Verilog, System Verilog, MATLAB, C, C++
 
 ---
 
