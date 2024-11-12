@@ -1,4 +1,4 @@
-![Green and Brown Minimal Geometry Landscape University Research Poster](https://github.com/user-attachments/assets/7292fab8-21da-477d-87b4-c973e023f378)<div align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/4a9ce7f7-2d28-466e-9af7-be8664ca818b" alt="Header Image" width="800"/>
 </div>
 
