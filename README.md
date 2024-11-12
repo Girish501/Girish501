@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="path/to/your/header_image.jpg" alt="Header Image" width="800"/>
+![Green and Brown Minimal Geometry Landscape University Research Poster](https://github.com/user-attachments/assets/7292fab8-21da-477d-87b4-c973e023f378)<div align="center">
+  <img src="https://github.com/user-attachments/assets/4a9ce7f7-2d28-466e-9af7-be8664ca818b" alt="Header Image" width="800"/>
 </div>
 
 # Hi there! 👋 I'm Girish Arora – Passionate About Analog Design, VLSI & Semiconductors
 
 Welcome to my GitHub profile! I’m a dedicated engineer with a focus on **analog design**, **VLSI systems**, and **semiconductor technology**. I’m driven by the challenge of designing high-performance circuits and am constantly exploring innovations in semiconductor technologies. Here, you'll find a collection of my projects, research, and insights into the world of analog and mixed-signal design.
-
----
-
-<div align="center">
-  <img src="path/to/your/analog_ic_image.jpg" alt="Analog IC Image" width="600"/>
-</div>
 
 ---
 
