@@ -78,14 +78,14 @@ Here’s a glimpse of the tools and technologies I work with regularly:
 I'm always excited to connect with fellow engineers, researchers, and enthusiasts in the field of semiconductor and analog design. Let's discuss projects, research, and collaboration opportunities!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/girish-027918226/">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="80" height="40" style="margin: 0 10px;">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ea4335/gmail-new.png" alt="Email" width="40" height="40" style="margin: 0 10px;">
+  <a href="mailto:girisharora510@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ea4335/gmail-new.png" alt="Email" width="80" height="40" style="margin: 0 10px;">
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter" width="40" height="40" style="margin: 0 10px;">
+  <a href="https://twitter.com/Girish056" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter" width="80" height="40" style="margin: 0 10px;">
   </a>
 </div>
 
